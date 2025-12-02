@@ -1,0 +1,3 @@
+*.csv
+git rm --cached *.csv
+git rm --cached data/*.csv
